@@ -1,1 +1,1 @@
-hello git, this is my first github project.
+hello github, this is my first github project.
