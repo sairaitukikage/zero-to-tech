@@ -1,0 +1,37 @@
+[
+  {
+    "text": "今天的风很轻，适合把脑海里的想法慢慢写下来。",
+    "score": 1.0,
+    "label": "偏积极",
+    "pinyin": "jīn tiān de fēng hěn qīng ， shì hé bǎ nǎo hǎi lǐ de xiǎng fǎ màn màn xiě xià lái 。",
+    "created_at": "2026-08-16T05:02:21+00:00"
+  },
+  {
+    "text": "我爱鸭鸭",
+    "score": 0.31,
+    "label": "偏消极",
+    "pinyin": "wǒ ài yā yā",
+    "created_at": "2026-08-16T05:02:38+00:00"
+  },
+  {
+    "text": "我喜欢鸭鸭",
+    "score": 0.26,
+    "label": "偏消极",
+    "pinyin": "wǒ xǐ huān yā yā",
+    "created_at": "2026-08-16T05:02:51+00:00"
+  },
+  {
+    "text": "我很好",
+    "score": 0.78,
+    "label": "偏积极",
+    "pinyin": "wǒ hěn hǎo",
+    "created_at": "2026-08-16T05:02:57+00:00"
+  },
+  {
+    "text": "我很好啊",
+    "score": 0.78,
+    "label": "偏积极",
+    "pinyin": "wǒ hěn hǎo a",
+    "created_at": "2026-08-16T05:03:58+00:00"
+  }
+]
